@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+=======
+.idea/tasks.xml
+.idea/libraries
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
